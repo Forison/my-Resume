@@ -1,0 +1,352 @@
+#bodyCase{
+	width: 100%;
+	height: 100%;
+	
+	border-radius: 5px;
+	margin-bottom: 10px;
+	box-shadow: 0px 20px 80px -10px black;
+	background-color:white;
+}
+#mynavbar{
+	background-color:white;
+	
+	border:0px;
+	
+}
+.navbar-nav{
+	color: silver;
+	font-weight: bolder;
+	font-size: 14px;
+	margin-left: 20%;
+	margin-top: 1%;
+	
+	
+	
+
+}
+#introView{
+	position: relative;
+	transform: translate(0%,300px);
+	font-size: 15px;
+	text-align: center;
+}
+#introVi{
+	font-size: 13px;
+}
+
+a:hover{
+	background-color:rgb(0,0,21);
+	color: blue;
+}
+.navbar-toggle{
+	background-color: silver;
+}
+.icon-bar{
+	background-color: white;
+}
+#brandName{
+	margin-top: 2.5%;
+	
+
+}
+#name{
+font-size: 10px;
+text-transform: lowercase;
+color: skyblue;
+font-weight: bolder;
+transform: translate(-500px,0px);
+}
+#brand{
+font-size: 23px;
+color: rgb(0,0,48);
+font-weight: bolder;
+text-shadow: 1px 1px black;
+border-top: 3px solid skyblue;
+padding-top: 5%;
+padding-bottom:10%;
+padding-right: 5%;
+padding-left: 5%;
+border-bottom:0;
+border-top-left-radius: 50%;
+border-top-right-radius: 25%;
+border-left: 0.5px solid skyblue;
+padding-left: 10%;
+}
+#logo{
+	margin-top: 0;
+    width: 90%;
+	height: 90%;
+
+}
+.fa{
+	margin-left: 5%;
+}
+#body{
+	background-color:white;
+
+}
+
+
+#showcase{
+	width: 100%;
+	height: 500px;
+	display: block;
+	margin: 0 auto;
+
+
+}
+
+#placeholder{
+	width: 100%;
+	height: 400px;
+	display: block;
+	margin: 0 auto;
+}
+
+
+#bmpt{
+    width: 100%;
+	height: 480px;
+	border:0px;
+
+}
+#logoMain{
+    width: 100%;
+	height: 480px;
+	border:0px;
+	display: block;
+	margin: 0 auto;
+
+}
+#slideHead"{
+	font-size: 12px;
+	color: blue;
+	font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#sectionTwo{
+	width: 100%;
+	height: 100%;
+	padding-bottom: 3%;
+	padding-top: 3%;
+	
+}
+#left{
+
+	width: 100%;
+	height: 100%;
+	
+
+}
+
+#who{
+	font-weight: bolder;
+	text-align: center;
+	text-transform: capitalize;
+	text-shadow: 1px 1px black;
+	letter-spacing: 5px;
+	color: rgb(0,0,21);
+
+}
+#whoQ{
+	font-weight: bolder;
+	text-align: center;
+	text-transform: capitalize;
+	text-shadow: 1px 1px black;
+	font-size: 30px;
+	color: blue;
+	margin-top: 5%;
+}
+#whoWe{
+	text-align: center;
+	text-transform: capitalize;
+    color: rgb(0,0,21);	
+    font-size:14px;
+    font-weight: bold;
+}
+#myServ{
+	margin-top: 5%;
+	color: white;
+	text-align: center;
+}
+
+#myServ li{
+  font-size: 12px;
+  color: white;
+  text-transform: capitalize;
+  font-weight: bolder;
+  text-shadow: 1px 1px black;
+}
+
+
+
+
+
+
+#sectionFour{
+	width: 100%;
+	height: 100%;
+	
+}
+#leftFour{
+	width: 100%;
+	height: 100%;
+	
+}
+
+#rytFour{
+	width: 100%;
+	height: 100%;
+	
+}
+#ourVal{
+	font-weight: bolder;
+	text-align: center;
+	text-transform: capitalize;
+	text-shadow: 1px 1px black;
+	letter-spacing: 5px;
+	color: rgb(0,0,21);
+
+
+
+}
+#ourValMain{
+    font-weight: bolder;
+	text-align: center;
+	text-transform: capitalize;
+	text-shadow: 1px 1px black;
+	letter-spacing: 5px;
+	color: rgb(0,0,21);
+    font-size:40px;
+}
+
+#ourV{
+    text-align: center;
+	text-transform: capitalize;
+    color: rgb(0,0,21);	
+    font-size:14px;
+    font-weight: bold;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+
+}
+#our{
+    font-weight: bolder;
+	text-transform: capitalize;
+	color:blue;
+
+}
+
+
+
+#ourMission{
+	width: 100%;
+	height: 100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+#ourVision{
+	width: 100%;
+	height:100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+}
+
+#ourCommittment{
+	width: 100%;
+	height: 100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+}
+#ourCom{
+	width: 100%;
+	height: 100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+}
+#dliverOne{
+	width: 100%;
+	height: 100%;
+    padding-top: 5%;
+	
+
+}
+.jumbotron{
+	border-radius: 0;
+	margin: 0;
+
+}
+
+#eighLeft{
+	height: 300px;
+	box-shadow: 0px 20px 80px -10px;
+	margin-bottom: 5%;
+	margin-right: 2%;
+	margin-left: 2%;
+	border-radius: 5px;
+
+}
+#eighLeftOne{
+	height: 300px;
+	box-shadow: 0px 20px 80px -10px;
+	margin-bottom: 5%;
+	margin-right: 2%;
+	margin-left: 2%;
+	border-radius: 5px;
+
+}
+#eighLeftTwo{
+	height: 300px;
+	box-shadow: 0px 20px 80px -10px;
+	margin-bottom: 5%;
+	margin-right: 2%;
+	margin-left: 2%;
+	border-radius: 5px;
+
+}
+#sectionSeven{
+	width: 100%;
+	height: 380px;
+
+}
+	
+#sectionSeven{
+	margin-top: 50px;
+}
+#clear{
+	margin-top: 80px;
+}	
+
+#footer{
+width: 100%;
+height:100%;
+background-color: rgb(0,0,17);
+border-top-right-radius:0px;
+border-top-left-radius:0px;
+border-bottom-right-radius:5px;
+border-bottom-left-radius:5px;
+
+
+ 
+}
+#footLeft{
+	width: 100%;
+	height: 100%;
+    padding: 5%;
+}
