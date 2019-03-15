@@ -31,9 +31,9 @@ function navbar() {
 
    
      if (scrollLevel++) {
-      who.css('background-color','transparent')
+      who.css('background-color','white')
      } else  {
-              who.css('background-color','white')
+              who.css('background-color','transparent')
      
 
   }
