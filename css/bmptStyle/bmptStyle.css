@@ -27,7 +27,10 @@
 #introView{
 	position: relative;
 	transform: translate(0%,300px);
-	font-size: 15px;
+	font-size: 20px;
+	font-family: monospace;
+	font-weight: bolder;
+	color: black;
 	text-align: center;
 }
 #introVi{
@@ -46,7 +49,12 @@ a:hover{
 }
 #brandName{
 	margin-top: 2.5%;
-	
+	font-family:monospace;
+	font-weight: bolder;
+	text-shadow: 1px 1px black;
+	font-size: 20px;
+	display: block;
+	color: silver;
 
 }
 #name{
@@ -140,6 +148,8 @@ padding-left: 10%;
 	height: 100%;
 	padding-bottom: 3%;
 	padding-top: 3%;
+	background-color: rgb(10,10,10);
+
 	
 }
 #left{
@@ -155,11 +165,13 @@ padding-left: 10%;
 	text-align: center;
 	text-transform: capitalize;
 	text-shadow: 1px 1px black;
-	letter-spacing: 5px;
-	color: rgb(0,0,21);
+	
+	color:silver;
+	font-family: monospace;
 
 }
 #whoQ{
+	font-family: monospace;
 	font-weight: bolder;
 	text-align: center;
 	text-transform: capitalize;
@@ -174,6 +186,7 @@ padding-left: 10%;
     color: rgb(0,0,21);	
     font-size:14px;
     font-weight: bold;
+    font-family: monospace;
 }
 #myServ{
 	margin-top: 5%;
