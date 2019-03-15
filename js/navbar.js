@@ -19,10 +19,33 @@ function animWho(){
 }
 
 
+
+
+
+
+function navbar() {
+  $(window).scroll(function(){
+
+     var scrollLevel=$(document).scrollTop();
+     var who=$("#mynavbar")
+
+   
+     if (scrollLevel++) {
+      who.css('background-color','transparent')
+     } else  {
+              who.css('background-color','white')
+     
+
+  }
+
+
+})
+}
+
 $(document).ready(function(){
 
   //hide who by default 
   $("#left").hide()
-
+  navbar()
   animWho()
 })

@@ -8,7 +8,7 @@
 	background-color:white;
 }
 #mynavbar{
-	background-color:white;
+	background-color:transparent;
 	box-shadow: 0px 20px 80px -10px black;
 	border:0px;
 	
@@ -196,6 +196,8 @@ padding-left: 10%;
     color: rgb(0,0,21);	
     font-size:14px;
     font-weight: bold;
+    padding-left: 5%;
+    padding-right: 5%;
     font-family: monospace;
 }
 #myServ{
