@@ -1,3 +1,6 @@
+body{
+       font-family: nunito;
+}
 #bodyCase{
 	width: 100%;
 	height: 100%;
@@ -29,7 +32,7 @@
 	position: relative;
 	transform: translate(0%,300px);
 	font-size: 20px;
-	font-family: cursive;
+	font-family: nunito;
 	text-shadow: 1px 1px black;
 	font-weight: bolder;
 	color: white;
@@ -38,7 +41,7 @@
 #introVi{
 	font-size: 14px;
 	color: gold;
-	font-family: monospace;
+	font-family: nunito;
 }
 
 a:hover{
@@ -53,7 +56,7 @@ a:hover{
 }
 #brandName{
 	margin-top: 2.5%;
-	font-family:monospace;
+	font-family: nunito;
 	font-weight: bolder;
 	text-shadow: 1px 1px black;
 	font-size: 20px;
@@ -167,7 +170,7 @@ padding-left: 10%;
 #nav-link{
 	color: silver;
 	font-weight: bolder;
-	font-family: monospace;
+	font-family: nunito;
 	font-size: 20px;
 	text-shadow: 1px 1px black;
 	margin-left: 50px;
@@ -180,11 +183,11 @@ padding-left: 10%;
 	text-shadow: 1px 1px black;
 	
 	color:silver;
-	font-family: monospace;
+	font-family: nunito;
 
 }
 #whoQ{
-	font-family:cursive;
+	font-family: nunito;
 	font-weight: bolder;
 	text-align: center;
 	text-transform: capitalize;
@@ -201,7 +204,7 @@ padding-left: 10%;
     font-weight: bold;
     padding-left: 5%;
     padding-right: 5%;
-    font-family: monospace;
+    font-family: nunito;
 }
 #myServ{
 	margin-top: 5%;
